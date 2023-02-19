@@ -186,11 +186,9 @@ function SIGNUPBASEBALL32(props) {
               alt="Iconsax/Linear/usersquare"
             />
             <div className="eazy inter-bold-white-21px">SIGN UP</div>
-            <img
-              className="base-1 animate-enter"
-              src="https://cdn.animaapp.com/projects/63ece14667db4bb19c023a64/releases/63ed38e2ecb1a84edc9c78c7/img/crick-1-3.png"
-              alt="BASE 1"
-            />
+            <div className="base-1 animate-enter">
+              <img id="img-cricket" src={"https://cdn.animaapp.com/projects/63ece14667db4bb19c023a64/releases/63ed38e2ecb1a84edc9c78c7/img/crick-1-3.png"} alt="BASE 1" />
+            </div>
           </div>
           <div className="sign-up inter-bold-white-46px">{signUp}</div>
 
