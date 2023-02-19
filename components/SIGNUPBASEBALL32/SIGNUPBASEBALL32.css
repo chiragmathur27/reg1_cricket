@@ -325,10 +325,21 @@
   display: block;
   opacity: 0;
   transform: translate(25px, 0);
+  height: 50%;
+  width: 40%;
+  position: absolute;
+}
+
+#img-cricket{
+  position: relative;
+  margin-top: 70px;
+  width: 68.125em;
+  height:57.8125em;
+  left: -69px;
 }
 
 .sign-up {
-  left: 840px;
+  left: 1150px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
